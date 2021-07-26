@@ -1,0 +1,11 @@
+.about .titlepage h2 {
+    margin-bottom: 25px;
+}
+.titlepage h2 {
+    font-size: 40px;
+    color: #191919;
+    line-height: 45px;
+    font-weight: 500;
+    padding: 0;
+    display: inline-block;
+}
